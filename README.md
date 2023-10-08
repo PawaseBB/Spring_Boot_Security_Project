@@ -76,13 +76,10 @@ This project includes an SQL script to create the necessary database and schemas
 4. Execute the SQL script provided in the project to create the required tables and schemas. You can find the script in `Spring_Boot_Security_Project
 /Join_of_users_authorities.sql`.
 
-   ```Spring_Boot_Security_Project
-/Join_of_users_authorities.sql
-   ```
 
    Replace `/path/to/your/project` with the actual path to your project directory.
 
-5. Your database is now set up with the necessary tables and schemas for this project.
+6. Your database is now set up with the necessary tables and schemas for this project.
 
 Make sure to update the `spring.datasource.url`, `spring.datasource.username`, and `spring.datasource.password` properties in the `application.properties` file with the correct database connection details.
 
