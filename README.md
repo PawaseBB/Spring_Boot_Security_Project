@@ -77,7 +77,7 @@ This project includes an SQL script to create the necessary database and schemas
 
    Replace `/path/to/your/project` with the actual path to your project directory.
 
-4. EER Diagram For Tabels:
+4. EER Diagram For Tabels: <br/>
    <img src="image/EER_diagram.png" alt="EER-diagram" width="200" height="300"> 
 
 6. Your database is now set up with the necessary tables and schemas for this project.
